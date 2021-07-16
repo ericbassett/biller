@@ -1,0 +1,24 @@
+{
+  "name": "biller",
+  "version": "1.0.0",
+  "description": "Client, assignment, and billing tracker.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ericbassett/biller.git"
+  },
+  "keywords": [
+    "billing",
+    "account",
+    "management"
+  ],
+  "author": "Eric Bassett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericbassett/biller/issues"
+  },
+  "homepage": "https://github.com/ericbassett/biller#readme"
+}
